@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApiDataV2</string>
+    <string name="search">Search</string>
+    <string name="type_to_search">Type to Search</string>
+</resources>
